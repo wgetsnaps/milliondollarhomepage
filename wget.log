@@ -1,0 +1,264 @@
+--2016-04-05 19:10:47--  http://www.milliondollarhomepage.com/
+Resolving www.milliondollarhomepage.com... 98.129.229.73
+Connecting to www.milliondollarhomepage.com|98.129.229.73|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'index.html'
+
+     0K .......... .......... .......... .......... ..........  524K
+    50K .......... .......... .......... .......... .......... 1.06M
+   100K .......... .......... .......... .......... .......... 4.18M
+   150K .......... .......... .......... .......... .......... 8.75M
+   200K .......... .......... .......... .......... ..........  994K
+   250K .......... .......... .......... .......... .......... 8.89M
+   300K .......... .......... .......... .......... .......... 2.12M
+   350K .......... .......... .......... .......... .......... 10.6M
+   400K .......... .......... .......... .......... .......... 2.42M
+   450K .......... .......... .......... .......... .......... 7.51M
+   500K .......... .......... .......... .......... .......... 3.32M
+   550K .......... .......... .......... .....                 5.08M=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2016-04-05 19:10:47 (1.97 MB/s) - 'index.html' saved [599109]
+
+Loading robots.txt; please ignore errors.
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/robots.txt
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/banner-styles.css
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10587 (10K) [text/css]
+Saving to: 'index_files/banner-styles.css'
+
+     0K ..........                                            100% 7.78M=0.001s
+
+2016-04-05 19:10:48 (7.78 MB/s) - 'index_files/banner-styles.css' saved [10587/10587]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/style.css
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2991 (2.9K) [text/css]
+Saving to: 'index_files/style.css'
+
+     0K ..                                                    100% 15.0M=0s
+
+2016-04-05 19:10:48 (15.0 MB/s) - 'index_files/style.css' saved [2991/2991]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/index.html
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/logo-tm.gif
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5515 (5.4K) [image/gif]
+Saving to: 'index_files/logo-tm.gif'
+
+     0K .....                                                 100% 9.56M=0.001s
+
+2016-04-05 19:10:48 (9.56 MB/s) - 'index_files/logo-tm.gif' saved [5515/5515]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/toptag2top.gif
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1935 (1.9K) [image/gif]
+Saving to: 'index_files/toptag2top.gif'
+
+     0K .                                                     100%  154M=0s
+
+2016-04-05 19:10:48 (154 MB/s) - 'index_files/toptag2top.gif' saved [1935/1935]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/navbg.gif
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 149 [image/gif]
+Saving to: 'index_files/navbg.gif'
+
+     0K                                                       100% 17.8M=0s
+
+2016-04-05 19:10:48 (17.8 MB/s) - 'index_files/navbg.gif' saved [149/149]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/follow_button.a64cf823bcb784855b86e2970134bd2a.en.html
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 51881 (51K) [text/html]
+Saving to: 'index_files/follow_button.a64cf823bcb784855b86e2970134bd2a.en.html'
+
+     0K .......... .......... .......... .......... .......... 98% 7.93M 0s
+    50K                                                       100% 13.3K=0.006s
+
+2016-04-05 19:10:48 (8.03 MB/s) - 'index_files/follow_button.a64cf823bcb784855b86e2970134bd2a.en.html' saved [51881/51881]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/widgets.js
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 110609 (108K) [application/javascript]
+Saving to: 'index_files/widgets.js'
+
+     0K .......... .......... .......... .......... .......... 46% 9.46M 0s
+    50K .......... .......... .......... .......... .......... 92% 6.72M 0s
+   100K ........                                              100% 8.90M=0.01s
+
+2016-04-05 19:10:48 (7.92 MB/s) - 'index_files/widgets.js' saved [110609/110609]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/buy.php
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/faq.php
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/blog.php
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/pixellist.php
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/press.php
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/testimonials.php
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/gsc3.js
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3885 (3.8K) [application/javascript]
+Saving to: 'index_files/gsc3.js'
+
+     0K ...                                                   100% 14.1M=0s
+
+2016-04-05 19:10:48 (14.1 MB/s) - 'index_files/gsc3.js' saved [3885/3885]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/counter.js
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21752 (21K) [application/javascript]
+Saving to: 'index_files/counter.js'
+
+     0K .......... .......... .                               100% 6.94M=0.003s
+
+2016-04-05 19:10:48 (6.94 MB/s) - 'index_files/counter.js' saved [21752/21752]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/bg10.gif
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 58 [image/gif]
+Saving to: 'index_files/bg10.gif'
+
+     0K                                                       100% 6.91M=0s
+
+2016-04-05 19:10:48 (6.91 MB/s) - 'index_files/bg10.gif' saved [58/58]
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/http//:www.phoneoutletstore.com
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:48 ERROR 404: Not Found.
+
+--2016-04-05 19:10:48--  http://www.milliondollarhomepage.com/index_files/image-map.png
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 405790 (396K) [image/png]
+Saving to: 'index_files/image-map.png'
+
+     0K .......... .......... .......... .......... .......... 12% 8.35M 0s
+    50K .......... .......... .......... .......... .......... 25% 7.69M 0s
+   100K .......... .......... .......... .......... .......... 37% 6.22M 0s
+   150K .......... .......... .......... .......... .......... 50% 5.28M 0s
+   200K .......... .......... .......... .......... .......... 63% 9.92M 0s
+   250K .......... .......... .......... .......... .......... 75%  423K 0s
+   300K .......... .......... .......... .......... .......... 88%  949K 0s
+   350K .......... .......... .......... .......... ......    100% 9.68M=0.2s
+
+2016-04-05 19:10:49 (1.85 MB/s) - 'index_files/image-map.png' saved [405790/405790]
+
+--2016-04-05 19:10:49--  http://www.milliondollarhomepage.com/index_files/image-map(1).png
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 405790 (396K) [image/png]
+Saving to: 'index_files/image-map(1).png'
+
+     0K .......... .......... .......... .......... .......... 12% 5.53M 0s
+    50K .......... .......... .......... .......... .......... 25% 8.85M 0s
+   100K .......... .......... .......... .......... .......... 37% 9.20M 0s
+   150K .......... .......... .......... .......... .......... 50% 7.31M 0s
+   200K .......... .......... .......... .......... .......... 63% 7.17M 0s
+   250K .......... .......... .......... .......... .......... 75%  435K 0s
+   300K .......... .......... .......... .......... .......... 88% 1.02M 0s
+   350K .......... .......... .......... .......... ......    100% 1.32M=0.2s
+
+2016-04-05 19:10:49 (1.68 MB/s) - 'index_files/image-map(1).png' saved [405790/405790]
+
+--2016-04-05 19:10:49--  http://www.milliondollarhomepage.com/bg20.gif
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:49 ERROR 404: Not Found.
+
+--2016-04-05 19:10:49--  http://www.milliondollarhomepage.com/index_files/neg.gif
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1762 (1.7K) [image/gif]
+Saving to: 'index_files/neg.gif'
+
+     0K .                                                     100%  280M=0s
+
+2016-04-05 19:10:49 (280 MB/s) - 'index_files/neg.gif' saved [1762/1762]
+
+--2016-04-05 19:10:49--  http://www.milliondollarhomepage.com/index_files/bodybg.gif
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 50 [image/gif]
+Saving to: 'index_files/bodybg.gif'
+
+     0K                                                       100% 9.54M=0s
+
+2016-04-05 19:10:49 (9.54 MB/s) - 'index_files/bodybg.gif' saved [50/50]
+
+--2016-04-05 19:10:49--  http://www.milliondollarhomepage.com/index_files/statbg-out.gif
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2999 (2.9K) [image/gif]
+Saving to: 'index_files/statbg-out.gif'
+
+     0K ..                                                    100% 11.3M=0s
+
+2016-04-05 19:10:49 (11.3 MB/s) - 'index_files/statbg-out.gif' saved [2999/2999]
+
+--2016-04-05 19:10:49--  http://www.milliondollarhomepage.com/widgets/images/btn.27237bab4db188ca749164efd38861b0.png
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2016-04-05 19:10:49 ERROR 404: Not Found.
+
+--2016-04-05 19:10:49--  http://www.milliondollarhomepage.com/index_files/info.json
+Reusing existing connection to www.milliondollarhomepage.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 224 [application/json]
+Saving to: 'index_files/info.json'
+
+     0K                                                       100% 42.7M=0s
+
+2016-04-05 19:10:49 (42.7 MB/s) - 'index_files/info.json' saved [224/224]
+
+FINISHED --2016-04-05 19:10:49--
+Total wall clock time: 2.3s
+Downloaded: 17 files, 1.5M in 0.8s (2.05 MB/s)
+Converting links in index.html... 13-3
+Converting links in index_files/follow_button.a64cf823bcb784855b86e2970134bd2a.en.html... 1-1
+Converting links in index_files/banner-styles.css... nothing to do.
+Converting links in index_files/style.css... 3-0
+Converted links in 4 files in 0.07 seconds.
